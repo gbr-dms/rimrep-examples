@@ -101,7 +101,7 @@ below. Alternatively, if you already have an access token, you can
 provide this as an input in the `connect_dms_dataset` function. Refer to
 **The data API** subsection under **How to use DMS services and data**
 in the [README
-page](https://github.com/aodn/rimrep-training/blob/main/CoTS-training-Jan2024/README.md)
+page](https://github.com/gbr-dms/rimrep-training/blob/main/CoTS-training-Jan2024/README.md)
 for more information.
 
 If you do not user credentials, you will not be able to access our API,
@@ -194,7 +194,7 @@ st_crs(whi_reefs)$input == st_crs(salt_gbr)$input
 We can now extract the data from the raster to the polygon. For
 simplicity, we will extract data for layers that have `-0.5` included in
 their name. In the [eReef timeseries
-notebook](https://github.com/aodn/rimrep-examples/blob/main/R_based_scripts/eReef_maps_timeseries.qmd),
+notebook](https://github.com/gbr-dms/rimrep-examples/blob/main/R_based_scripts/eReef_maps_timeseries.qmd),
 we will expand on the reasoning behind this choice.
 
 ``` r
