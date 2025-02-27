@@ -207,7 +207,7 @@ Gridded data is also available in the RIMReP DMS. This data is stored in [Zarr](
 
 To make access of gridded data in `R` as easy as possible for users, we created a function called `connect_dms_dataset`, which you can find in the `useful_functions.R` script. This function takes the API address for the dataset of interest, the variable name of interest as arguments and returns a `SpatRaster` object. Additionally, you can provide spatial and temporal boundaries to extract data. We will use the *NOAA Coral Reef Watch degree heating weeks* dataset as an example, but you can replace the API address with the one for the dataset you want to access.
 
-Note that you will need to head over to our dashboard: <https://dashboard.reefdata.io/> to get a token before you can access the data. When you use the `connect_dms_dataset` function, you will be prompted to enter your token. If you do not have an account, you can contact us at [info-rimrep\@utas.edu.au](mailto:info-rimrep@utas.edu.au).
+Note that you will need to head over to our dashboard: <https://dashboard.reefdata.io/> to get a token before you can access the data. When you use the `connect_dms_dataset` function, you will be prompted to enter your token. If you do not have an account, you can contact us at [rimrep-dms@aims.gov.au](mailto:rimrep-dms@aims.gov.au).
 
 ``` r
 #Loading useful_functions script
