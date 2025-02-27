@@ -71,7 +71,7 @@ below. Alternatively, if you already have an access token, you can
 provide this as an input in the `connect_dms_dataset` function. Refer to
 **The data API** subsection under **How to use DMS services and data**
 in the [README
-page](https://github.com/aodn/rimrep-training/blob/main/CoTS-training-Jan2024/README.md)
+page](https://github.com/gbr-dms/rimrep-training/blob/main/CoTS-training-Jan2024/README.md)
 for more information.
 
 If you do not have user credentials, you will not be able to access our
