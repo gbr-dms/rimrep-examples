@@ -46,7 +46,7 @@ From the STAC catalogue item for the [NOAA CRW SST](https://stac.reefdata.io/bro
   
 **Note:** Before running the code chunk below, make sure you either have store your user credentials as environmental variables, or have this information with you to input in the `connect_dms_dataset` function below. Alternatively, if you already have an access token, you can provide this as an input in the `connect_dms_dataset` function. Refer to **The data API** subsection under **How to use DMS services and data** in the [README page](https://github.com/gbr-dms/rimrep-training/blob/main/CoTS-training-Jan2024/README.md) for more information.  
   
-If you do not user credentials, you will not be able to access our API, please contact the DMS team to set up an account by emailing [info-dms@utas.edu.au](mailto:info-dms@utas.edu.au).  
+If you do not user credentials, you will not be able to access our API, please contact the DMS team to set up an account by emailing [rimrep-dms@aims.gov.au](mailto:rimrep-dms@aims.gov.au).  
     
 ```{r}
 #Defining API URL (obtained from STAC catalogue)

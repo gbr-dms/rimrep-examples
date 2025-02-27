@@ -76,7 +76,7 @@ for more information.
 
 If you do not have user credentials, you will not be able to access our
 API, please contact the DMS team to set up an account by emailing
-<info-dms@utas.edu.au>.
+<rimrep-dms@aims.gov.au>.
 
 ``` r
 #Defining API URL (obtained from STAC catalogue)

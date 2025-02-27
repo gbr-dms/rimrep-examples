@@ -54,7 +54,7 @@ the code chunk below, you will see a pop-up box requesting for this
 token. Paste your token in the box and press *OK* to continue. If you do
 not have this token, you will not be able to access our API, please
 contact the RIMReP team to set up an account by emailing
-<info-rimrep@utas.edu.au>.
+<rimrep-dms@aims.gov.au>.
 
 ``` r
 #Defining API URL (obtained from STAC catalogue)
